@@ -1,0 +1,6 @@
+npm install mysql
+npm install sqlite3
+
+usunąć foreign key tabeli,
+usunąć klucz
+(tabela documents)
